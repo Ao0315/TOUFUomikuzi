@@ -1,19 +1,18 @@
 #omikuzi{
-	font-family: serif,arial ;
-	font-size: 50px;
-	font-weight: bold;
-	text-align: center;
+        font-family: serif,arial ;
+        font-size:50px;
+        font-weight: bold;
+        text-align: center;
 }
-#zyuken{
-	font-family: serif,arial;
-	font-size: 50px;
-	font-weight: bold;
+#zyuken{font-family: serif,arial ;
+        font-size:20px;
+        font-weight: bold;
+
 }
 #unsei{
-	font-family: serif,arial;
-	font-size: 20px;
+    font-family: serif,arial ;
+    font-size:20px;
 }
-
 
 
 
